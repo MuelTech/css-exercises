@@ -6,3 +6,11 @@
     color: blue;
     font-size: 36px;
 }
+.text-pink.fonts{
+    font-size: 24px;
+}
+.text-green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
